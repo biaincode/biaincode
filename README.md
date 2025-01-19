@@ -10,7 +10,7 @@
 <img/align="center" alt="SWIFT" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia e em constante evolução, estou em processo de transição de carreira para me tornar desenvolvedora iOS. Atualmente, estou focada em aprender Swift e as melhores práticas de desenvolvimento mobile para criar aplicativos inovadores e intuitivos.
+Apaixonada por tecnologia e em constante evolução.
 
 
 
