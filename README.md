@@ -8,6 +8,7 @@
 <div style=”display: inline_block”><br/>
 <img/align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img/align="center" alt="SWIFT" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img/align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 Apaixonada por tecnologia e em constante evolução.
